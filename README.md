@@ -9,3 +9,4 @@ Tested on Ubuntu 16.04.LTS and latest Ubuntu 17.10 Artfull
 
 Enjoy!
 
+OpenVPN 2.4.4 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] [XOR] built on Nov 30 2017
