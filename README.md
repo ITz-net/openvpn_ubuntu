@@ -1,4 +1,4 @@
-# Pre-compiled OpenVPN with TunnelBlick XOR Patch for use with Ubuntu & Debian
+# Pre-compiled OpenVPN with TunnelBlick XOR Patch for Ubuntu & Debian
 
 This version of OpenVPN encrypt your all vpn session by XOR patch (SSL encrypted) with no way to simple detect using VPN..
 
